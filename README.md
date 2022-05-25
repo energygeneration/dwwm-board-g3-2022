@@ -7,6 +7,11 @@
 2 - Faire un Checkout depuis la branche Develop.
 
 3 - Inserer vos informations dans la partie requise.
+<<<<<<< HEAD
+=======
+
+4 - Faire un PR vers la branche Develop.
+>>>>>>> efc1a3ce1fec067dd1323f8218dd58041b83611d
 
 4 - Faire un PR vers la branche Develop.
 
