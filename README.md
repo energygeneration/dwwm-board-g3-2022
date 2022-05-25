@@ -9,6 +9,7 @@
 3 - Inserer vos informations dans la partie requise.
 
 4 - Faire un PR vers la branche Develop.
+<<<<<<< HEAD
 
 4 - Avant d'envoyer le code faite un rebase
 
@@ -23,6 +24,8 @@ git checkout feat/xxxxxxx
 git rebase develop
 
 git push
+=======
+>>>>>>> 1d17c70085d94249362ce63bd3334391c410a63c
 
 
 
