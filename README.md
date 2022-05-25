@@ -8,4 +8,20 @@
 
 3 - Faire un PR vers la branche Develop.
 
+4 - Avant d'envoyer le code faite un rebase
 
+Rebase
+
+git fetch origin develop
+
+git reset --hard origin/develop
+
+git checkout feat/xxxxxxx
+
+git rebase develop
+
+git push
+
+
+
+Thanks
