@@ -10,6 +10,8 @@
 
 4 - Faire un PR vers la branche Develop.
 
+4 - Faire un PR vers la branche Develop.
+
 4 - Avant d'envoyer le code faite un rebase
 
 Rebase
