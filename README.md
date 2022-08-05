@@ -2,7 +2,7 @@
 
 ## Methodologie pour contribuer au projet
 
-1 - Crée une branche Ex: "feat/i_am_nom_prenom".
+1 - Crée une branche Ex: "feat/description_de_la_feature".
 
 2 - Faire un Checkout depuis la branche Develop.
 
